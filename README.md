@@ -23,4 +23,4 @@ Javadoc documentation available [here](https://github.com/shajjawi/JavaFXLogin/t
 
 # Unitary tests
 
-javafxlogin package classes have been tested by using junit4. Click [here](https://github.com/shajjawi/JavaFXLogin) to see the tests.
+javafxlogin package classes have been tested by using junit4. Click [here](https://github.com/shajjawi/JavaFXLogin/tree/main/tests) to see the tests.
