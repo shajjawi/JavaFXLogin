@@ -17,6 +17,10 @@ Add the import loginapp.Login to your Main or Launcher class code and the javafx
 
 You can see example code of integration with another JavaFX application by clicking [here](https://github.com/shajjawi/JavaFXLogin). 
 
-# Docs
+# Doc
+
+Javadoc documentation available [here](https://github.com/shajjawi/JavaFXLogin)
 
 # Unitary tests
+
+javafxlogin package classes have been tested by using junit4. Click [here](https://github.com/shajjawi/JavaFXLogin) to see the tests.
