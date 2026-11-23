@@ -19,7 +19,7 @@ You can see example code of integration with another JavaFX application by click
 
 # Doc
 
-Javadoc documentation available [here](https://github.com/shajjawi/JavaFXLogin)
+Javadoc documentation available [here](https://github.com/shajjawi/JavaFXLogin/tree/main/doc)
 
 # Unitary tests
 
