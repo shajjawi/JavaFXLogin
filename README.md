@@ -17,6 +17,10 @@ Download the file login.jar (available from [here](https://github.com/shajjawi/J
 
 You can view demo code of integration with the example HelloApp javafx application by clicking [here](https://github.com/shajjawi/JavaFXLogin/blob/main/HelloApp_Launcher.java). 
 
+login.jar comprises source code for all packaged classes. Run jar xf login.jar to extract all of its content. 
+
+Further instructions for cli compilation and execution are included in the source files.
+
 # Doc
 
 Javadoc documentation for classes and methods under loginapp is available [here](https://github.com/shajjawi/JavaFXLogin/tree/main/doc)
