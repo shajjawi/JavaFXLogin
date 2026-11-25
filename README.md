@@ -23,4 +23,6 @@ Javadoc documentation for classes and methods under loginapp is available [here]
 
 # Unitary tests
 
-javafxlogin package classes have been tested by using junit4.10 Click [here](https://github.com/shajjawi/JavaFXLogin/tree/main/tests) to downloand the tests folder.
+javafxlogin package classes have been tested by using junit4.10 (available at https://master.dl.sourceforge.net/project/junit/junit/4.10/junit4.10.zip?viasf=1).
+
+Click [here](https://github.com/shajjawi/JavaFXLogin/tree/main/tests) to download the tests folder and view its content.
