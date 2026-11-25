@@ -5,7 +5,7 @@ This non-modular component is intended for developers, offering simple and fast 
 
 It also offers an interface for db administrators, allowing to configure database access parameters (db_user, db_password, db_name, db_table, db_table_user_field, db_table_password_field).
 
-Integration with your own JavaFX application project is carried out in a very simple way by means of an instance of the main class Login object and further checking of the login process result (see example of use).
+Integration with your own JavaFX application project is carried out in a very simple way by instance of Login class object and further retrieving of the login process status (Login.IsValidated()).
 
 # Dependencies
 
