@@ -13,7 +13,7 @@ JavaFXLogin package classes and its dependencies have been compiled under jdk-27
 
 # Usage
 
-Add the import loginapp.Login to your Main or Launcher class code and the javafxlogin.jar (available [here](https://github.com/shajjawi/JavaFXLogin/blob/main/login.jar) path to your class-path. 
+Add the import loginapp.Login to your Main or Launcher class code and the javafxlogin.jar (available from [here](https://github.com/shajjawi/JavaFXLogin/blob/main/login.jar)) path to your class-path. 
 
 You can see example code of integration with another JavaFX application by clicking [here](https://github.com/shajjawi/JavaFXLogin/blob/main/HelloApp_Launcher.java). 
 
