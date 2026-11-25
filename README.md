@@ -15,7 +15,7 @@ loginapp package classes and its dependencies have been compiled under jdk-27.0.
 
 Download the file login.jar (available from [here](https://github.com/shajjawi/JavaFXLogin/blob/main/login.jar)), add it to your class-path or IDE library and add the import loginapp.Login to your Main or Launcher class. 
 
-Demo source code HelloApp_Launcher.java as example of integration with [hello.jar] javafx sample application available [here](https://github.com/shajjawi/JavaFXLogin/blob/main/HelloApp_Launcher.java). 
+Demo source code HelloApp_Launcher.java as example of integration with [hello.jar](https://github.com/shajjawi/loginapp/blob/main/hello.jar) javafx sample application available [here](https://github.com/shajjawi/JavaFXLogin/blob/main/HelloApp_Launcher.java). 
 
 login.jar comprises source code for all packaged classes. Run jar xf login.jar to extract all of its content. Further instructions for cli compilation and execution are included in the source files.
 
