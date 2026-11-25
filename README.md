@@ -19,7 +19,7 @@ You can view demo code of integration with the example HelloApp javafx applicati
 
 # Doc
 
-Javadoc documentation for classes and methods available [here](https://github.com/shajjawi/JavaFXLogin/tree/main/doc)
+Javadoc documentation for classes and methods under loginapp is available [here](https://github.com/shajjawi/JavaFXLogin/tree/main/doc)
 
 # Unitary tests
 
