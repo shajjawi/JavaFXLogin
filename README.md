@@ -1,5 +1,5 @@
 # Overview
-loginapp is a Java + JavaFX precompiled packaged software component which offers graphical user login interface against MySQL database.
+loginapp is a Java + JavaFX precompiled packaged software component which offers graphical user login interface against MySQL local server database.
 
 This non-modular component is intended for developers, offering simple and fast integration with any other JavaFX desktop application project requiring basic graphical user login interface (app_user_name + app_user_password) against local MySQL Server.
 
